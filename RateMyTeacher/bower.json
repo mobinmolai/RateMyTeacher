@@ -1,0 +1,17 @@
+{
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "v4.1.3",
+    "morris.js": "morrisjs#0.5.1",
+    "chartist": "v0.11.0",
+    "chartist-plugin-tooltip": "v0.0.18",
+    "jquery-waypoints": "waypoint#v2.0.5",
+    "counterup": "1.0.0",
+    "jquery-sparkline": "v2.1.3"
+  },
+  "resolutions": {
+    "chartist": "v0.11.0",
+    "chartist-plugin-tooltip": "v0.0.18"
+  }
+}
